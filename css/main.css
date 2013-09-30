@@ -1,0 +1,22 @@
+.questions{
+	display: block;
+	position: relative;
+	width: 90%;
+	margin: 15px auto;
+	text-align: left;
+	font-size: .55em;
+	font-family: monospace;
+	line-height: 1.2em;
+	word-wrap: break-word;
+	box-shadow: 0 0 6px rgba(0,0,0,.3);
+}
+
+.questions p{
+	font-size: 18px;
+	margin-top: 20px;
+	font-family: monospace;
+	padding: 25px;
+	overflow: auto;
+	max-height: 400px;
+	word-wrap: normal;
+}
