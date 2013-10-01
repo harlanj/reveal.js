@@ -11,6 +11,19 @@
 	box-shadow: 0 0 6px rgba(0,0,0,.3);
 	background-color: #333;
 }
+.questions2{
+	display: block;
+	position: relative;
+	width: 100%;
+	margin: 15px auto;
+	text-align: left;
+	font-size: .55em;
+	font-family: monospace;
+	line-height: 1.2em;
+	word-wrap: break-word;
+	box-shadow: 0 0 6px rgba(0,0,0,.3);
+	background-color: #333;
+}
 
 .questions p{
 	font-size: .6em;
@@ -21,4 +34,33 @@
 	max-height: 400px;
 	word-wrap: normal;
 	text-align: center;
+}
+
+#legacy p{
+	line-height:24px;
+}
+
+#death p{
+	line-height: 55px;
+}
+
+#calling p{
+	font-size: .6em !important;
+}
+
+.marcella1 p{
+	font-size:22px;
+}
+
+.lauren{
+	font-size:32px !important;
+	font-family: "League Gothic", Impact, sans-serif !important;
+	font-size:.9em;
+}
+
+.lauren2{
+	font-size:29px !important;
+	font-family: "League Gothic", Impact, sans-serif !important;
+	font-size:.9em;
+	margin-top: -24px !important;
 }
