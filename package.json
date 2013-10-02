@@ -1,21 +1,21 @@
 {
   "name": "reveal.js",
   "version": "2.6.0-dev",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
+  "description": "HTLM Presentation for Theology Class",
+  "homepage": "http://theopresentation.jeremiahaharlan.com",
+  "subdomain": "theopresentation",
   "scripts": {
     "test": "grunt test",
     "start": ""
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Jeremiah A. Harlan",
+    "email": "jeremiah.harlan@gmail.com",
+    "web": "http://jeremiahaharlan.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/harlan/reveal.js.git"
   },
   "engines": {
     "node": "~0.8.0"
